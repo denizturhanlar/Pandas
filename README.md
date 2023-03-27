@@ -1,3 +1,3 @@
 # Pandas
 ## Pandas kütüpahanesi
-- titanic ve total_bill veri setlerini kullanarak pandas üzerinde çalıştım
+- I worked on pandas libraries using titanic and total_bill data sets

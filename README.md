@@ -1,16 +1,17 @@
 # Pandas Libraries
 
-!
+![pandas foto](https://user-images.githubusercontent.com/126112467/231849407-d305d1d9-a9e0-408d-958d-238b8ce4f8ba.png)
+
  
 Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,built on top of the Python programming language.
 
 
 # Pandas Exercises Tasks
-Task 1: Identify the Titanic dataset from the Seaborn library.
+- Task 1: Identify the Titanic dataset from the Seaborn library.
 
-Task 2: Find the number of male and female passengers in the Titanic dataset described above.
+- Task 2: Find the number of male and female passengers in the Titanic dataset described above.
 
-Task 3: Find the number of unique values for each column.
+- Task 3: Find the number of unique values for each column.
 
 Task 4: Find the unique values of the variable pclass.
 

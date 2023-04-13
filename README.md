@@ -37,9 +37,7 @@ Pandas is a fast, powerful, flexible and easy to use open source data analysis a
 
 - Task 15: Find the sum, count, mean values of the survived variable in the breakdown of the Pclass and Gender variables.
 
-- Task 16: Write a function that returns 1 for those under 30 and 0 for those above or equal to 30.
-
-Using the function you wrote, create a variable named age_flag in the titanic data set. (use apply and lambda constructs)
+- Task 16: Write a function that returns 1 for those under 30 and 0 for those above or equal to 30.(Using the function you wrote, create a variable named age_flag in the titanic data set. (use apply and lambda constructs))
 
 - Task 17: Define the Tips dataset from the Seaborn library.
 
